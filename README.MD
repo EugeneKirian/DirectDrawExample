@@ -1,6 +1,6 @@
 ## DirectDraw Example
 
-An example of DirectDraw rendering in a native window in:
+An example of DirectDraw rendering:
 1. `Window.cxx` - window mode.
 2. `Screen.cxx` - full screen mode.
 

@@ -1,9 +1,13 @@
 ## DirectDraw Example
 
-An example of DirectDraw rendering in a native window.
+An example of DirectDraw rendering in a native window in:
+1. `Window.cxx` - window mode.
+2. `Screen.cxx` - full screen mode.
 
 ### Build
-Link with these libraries: `ddraw.lib`, `dxguid.lib`.
+Configure the build:
+1. Enable Unicode support.
+2. Link with `ddraw.lib` and `dxguid.lib`.
 
-### ScreenShot
+### Visual
 ![DirectDraw Window](Window.png)

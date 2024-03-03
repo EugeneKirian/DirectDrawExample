@@ -11,3 +11,7 @@ Configure the build:
 
 ### Visual
 ![DirectDraw Window](Window.png)
+
+### See Also
+1. [GDI Example](https://github.com/EugeneKirian/GDIExample)
+
